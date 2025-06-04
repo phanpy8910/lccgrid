@@ -108,5 +108,5 @@ MITライセンスのもとで公開されています。詳細は LICENSE フ�
 
 ## 🔗 Links / 関連リンク
 
-- [GitHub Repository](https://github.com/phanpy/lccgrid)
+- [GitHub Repository](https://github.com/phanpy8910/lccgrid)
 - [PyPI Package](https://pypi.org/project/lccgrid/)
